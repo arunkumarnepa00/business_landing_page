@@ -102,6 +102,9 @@ header{
       display: flex;
       justify-content: space-between;
     }
+    .nav-bar img{
+        margin-left:20px;
+    }
     .nav-bar:nth-child(1)::after{
       content: "";
       display: inline-block;
